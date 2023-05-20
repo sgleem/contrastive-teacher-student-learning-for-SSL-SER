@@ -1,0 +1,2 @@
+# Adapting a self-supervised speech representation for noisy speech emotion recognition by using contrastive teacher-student learning
+- Original paper from [link](https://ecs.utdallas.edu/research/researchlabs/msp-lab/publications/Leem_2023.pdf)
